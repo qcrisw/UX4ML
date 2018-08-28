@@ -5,7 +5,7 @@ Features:
 * Allows users to  compare two scatterplot images side-by-side.
 * Records time and keystroke (selected image).
 
-
+Note:
 * Run the app locally using any http server
 * Place your input files in static/input folder
 * Set the following parameters in static/js/app.js file:
